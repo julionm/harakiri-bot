@@ -1,0 +1,14 @@
+{
+  "name": "harakiri-bot",
+  "version": "1.0.0",
+  "description": "bot para discord",
+  "main": "src/index.js",
+  "repository": "git@github.com:julionm/harakiri-bot.git",
+  "author": "Julio Negri/Vini Carra",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "requirejs": "^2.3.6",
+    "winston": "^3.3.3"
+  }
+}
